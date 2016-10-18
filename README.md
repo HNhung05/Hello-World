@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+Hi all!
+HNhung05 here, I like web-development
